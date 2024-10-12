@@ -3,8 +3,8 @@
 BookMyDoc-Prescripto is a robust platform that allows patients to manage medical appointments, doctors to update availability, and administrators to oversee all platform activity efficiently. This Minimum Viable Product (MVP) features three distinct interfaces for users (patients), doctors, and administrators, ensuring seamless management of appointments, payments, and user profiles.
 
 ## Live Demo
-- **User**: [ThreadUp - Live - Frontend](https://bookmydoc-frontend.onrender.com/)
-- **Admin Panel**: [ThreadUp - Live - admin](https://bookmydoc-admin.onrender.com/)
+- **User**: [Prescripto - Live - Frontend](https://bookmydoc-frontend.onrender.com/)
+- **Admin Panel**: [Prescripto - Live - admin](https://bookmydoc-admin.onrender.com/)
   
 ## Table of Contents
 - [Installation](#installation)
